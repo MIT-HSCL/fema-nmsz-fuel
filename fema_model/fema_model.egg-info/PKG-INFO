@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: fema-model
+Version: 0.1
+Summary: An app to run FEMA models
+Home-page: https://github.com/MIT-CAVE/fema
+Author: Connor Makowski
+Author-email: conmak@mit.edu
+License: NONE
+Download-URL: https://github.com/MIT-CAVE/fema
+Keywords: FEMA,MODEL
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: NONE
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+
+UNKNOWN
+
