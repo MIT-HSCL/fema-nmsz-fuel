@@ -20,5 +20,5 @@ We developed and applied:
 
 - **Abdullah Alsukairi** – MIT SCM Class of 2025  
 - **Olivia Morton** – MIT SCM Class of 2025  
-- **Advisor:** Tim Russell – Lecturer, MIT Center for Transportation & Logistics  
-- **Based on prior work by:** Dr. Shraddha Rana 
+- **Advisor: Tim Russell** – MIT Center for Transportation & Logistics  
+- Based on prior work by: **Dr. Shraddha Rana**
