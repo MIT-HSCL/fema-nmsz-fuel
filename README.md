@@ -14,3 +14,11 @@ We developed and applied:
 - Discrete Event Simulation in Python
 - Scenario analysis across 7 disruption cases
 - Data integration from EIA, OPIS, and ArcGIS
+- Lever Guidance by Terminal Type (File: 30 Iterations)
+
+- ## Contributors
+
+- **Abdullah Alsukairi** – MIT SCM Class of 2025  
+- **Olivia Morton** – MIT SCM Class of 2025  
+- **Advisor:** Tim Russell – Lecturer, MIT Center for Transportation & Logistics  
+- **Based on prior work by:** Dr. Shraddha Rana 
